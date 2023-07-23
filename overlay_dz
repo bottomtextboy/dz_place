@@ -5,7 +5,7 @@
         {
             "name": "Algerian flag new location",
             "sources": [
-                "https://github.com/bottomtextboy/dz_place/blob/70588b1187c9bbba20c080a72867633de6edd1a3/alg14.png"
+                "https://raw.githubusercontent.com/bottomtextboy/dz_place/main/alg14.png"
             ],
             "x": 231,
             "y": 1329
